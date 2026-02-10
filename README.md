@@ -8,7 +8,7 @@ IT undergraduate focused on systems, backend development, and infrastructure.
 
 Most of my work is hands-on — building labs, breaking environments, and rebuilding them to understand how things work at a low level. I’m particularly interested in Linux systems, networking, self-hosting, and backend architecture.
 
-\## Focus Areas
+## Focus Areas
 
 \* Backend development & APIs
 
@@ -22,7 +22,7 @@ Most of my work is hands-on — building labs, breaking environments, and rebuil
 
 \* Systems & security labs (CTFs)
 
-\## Tech I Work With
+## Tech I Work With
 
 \* Linux (Debian/Arch-based)
 
